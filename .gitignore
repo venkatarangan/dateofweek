@@ -1,0 +1,37 @@
+# Compiler output
+*.o
+*.obj
+*.dll
+*.exe
+*.out
+*.so
+*.class
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+
+# Visual Studio specific
+*.vcxproj
+*.vcxproj.user
+*.sln
+*.ipch
+*.opensdf
+*.sdf
+*.vcxproj.filters
+
+# MacOS specific
+.DS_Store
+
+# Linux specific
+*~
+
+# Directories
+bin/
+obj/
+build/
